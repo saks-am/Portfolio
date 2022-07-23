@@ -1,6 +1,6 @@
 .t{
-    width: 50px;
-    height: 25px;
+    width: 65px;
+    height: 35px;
     border-radius: 20px;
     border: 1pz solid #999;
     background-color: rgb(241, 234, 234);
@@ -13,12 +13,12 @@
     justify-content: space-around;
 }
 .t-icon{
-    width: 15px;
-    height: 15px;
-}
-.t-button{
     width: 25px;
     height: 25px;
+}
+.t-button{
+    width: 40px;
+    height: 40px;
     border-radius: 50%;
     background-color: aqua;
     position: absolute;
