@@ -1,6 +1,6 @@
 import React from 'react'
 import "./intro.css"
-import Image from "/home/saksham/Documents/portfolioProject/portfolio/src/Components/img/Image.png"
+import Image from "../img/Image.png"
 
 
 const intro = () => {
