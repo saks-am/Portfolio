@@ -10,7 +10,7 @@ const intro = () => {
     <div className='i'>
       <div className='i-left'>
       <div className="i-left-wrapper">
-          <h2 className="i-intro">Hello, My name is</h2>
+          <h2 className="i-intro">Hello👋, My name is</h2>
           <h1 className="i-name">Saksham Sahu</h1>
           <div className="i-title">
             <div className="i-title-wrapper">
@@ -18,7 +18,7 @@ const intro = () => {
               <div className="i-title-item">Engineer</div>
               <div className="i-title-item">Photographer</div>
               <div className="i-title-item">Creative</div>
-              <div className="i-title-item">Responsible</div>
+              <div className="i-title-item">Team Player</div>
             </div>
             </div>
             <div className='i-desc'>
