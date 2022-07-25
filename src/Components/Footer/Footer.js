@@ -11,7 +11,7 @@ export default function Footer() {
         <div class="text-center center-block">
                 <a href="https://github.com/saks-am"><i id="social-fb" class="fa fa-github fa-3x social"></i></a>
 	            <a href="https://twitter.com/saksham_the007"><i id="social-tw" class="fa fa-twitter fa-3x social"></i></a>
-	            <a href="https://www.instagram.com/"><i id="social-gp" class="fa fa-instagram fa-3x social"></i></a>
+	            <a href="https://www.instagram.com/saks_iam/"><i id="social-gp" class="fa fa-instagram fa-3x social"></i></a>
 	            <a href="https://www.linkedin.com/in/saksham-sahu-2170b1193"><i id="social-em" class="fa fa-linkedin fa-3x social"></i></a>
     </div>
 </div>
